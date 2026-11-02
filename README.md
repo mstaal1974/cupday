@@ -8,7 +8,7 @@ A responsive, mobile-first guide to the 3 November 2026 race analyses for Flemin
 npm start
 ```
 
-Open port 3000 in your web browser. Requires Python 3; no application dependencies or build step. Any static web host can serve `index.html`, `style.css`, `app.js`, `icon.svg`, and `data.json`.
+Open port 3000 in your web browser. Requires Python 3; no application dependencies or build step. Any static web host can serve `index.html`, `style.css`, `app.js`, `timing.js`, `icon.svg`, and `data.json`.
 
 ## Features
 
@@ -18,7 +18,7 @@ Open port 3000 in your web browser. Requires Python 3; no application dependenci
 - Local-device shortlist; no account or betting integration.
 - Flexi calculator using $1 per combination; race-summary and best-bet alternatives preserved separately.
 
-Times are as supplied, labelled AEDT (Victoria/NSW) and AEST (Queensland). Data is transcribed from the user's four DOCX documents; it is not a live racing feed and has not been independently verified. No odds, results, or scratchings refresh automatically. Confidence scores are source ratings, not probabilities.
+All displayed schedule times are converted to Brisbane (AEST). Original venue times remain in `data.json`: AEDT for Victoria/NSW, AEST for Queensland. The Next up tab orders all venues by scheduled start and updates countdowns every second using the device clock, removing races when their scheduled start is reached. The supplied card is dated 3 November 2026; after its last scheduled start, Next up shows an empty state. Actual starts and delays are not tracked. Data is transcribed from the user's four DOCX documents; it is not a live racing feed and has not been independently verified. No odds, results, or scratchings refresh automatically. Confidence scores are source ratings, not probabilities.
 
 ## Validate
 
