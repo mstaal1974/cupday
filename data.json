@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "flemington",
+    "name": "Flemington",
+    "state": "VIC",
+    "timezone": "AEDT",
+    "rail": "Rail information not supplied",
+    "condition": "Turf",
+    "profile": "Comprehensive Race-by-Race Analysis (Flemington — Tuesday, 3 November 2026)",
+    "races": [
+      {
+        "number": 1,
+        "title": "Darley Maribyrnong Plate",
+        "meta": "1000m, 2YO Set Weights",
+        "time": "10:45 am",
+        "selections": [
+          {
+            "name": "Royal Press",
+            "number": 1
+          },
+          {
+            "name": "Amsterdam",
+            "number": 2
+          },
+          {
+            "name": "Funded",
+            "number": 7
+          },
+          {
+            "name": "Speedboatconfesion",
+            "number": 5
+          }
+        ],
+        "scratchings": "",
+        "analysis": [
+          "A classic juvenile sprint down the straight six with minimal exposed race day form. #1 Royal Press holds a significant experience edge, having missed by a mere 0.1L in the Debutant Stakes over 1000m at Caulfield after winning jump-outs at Caulfield and Flemington. #2 Amsterdam trialled strongly behind Toxon and gets Mark Zahra from barrier 8. #8 La La Lilly and #7 Funded have shown polished gate speed and trial wins at Flemington and Mornington respectively. "
+        ],
+        "exotics": "Quinella: 1, 2 | Trifecta: 1, 2 / 1, 2, 7 / 1, 2, 5, 7, 8",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 2,
+        "title": "Pin & Win Community Handicap",
+        "meta": "2000m, BM80",
+        "time": "11:20 am",
+        "selections": [
+          {
+            "name": "Chispa",
+            "number": 10
+          },
+          {
+            "name": "Yauson",
+            "number": 13
+          },
+          {
+            "name": "Ichnusa",
+            "number": 14
+          },
+          {
+            "name": "Mr O'reilly",
+            "number": 12
+          }
+        ],
+        "scratchings": "#2 Foujita San, #9 Unseen Ruler, #17 Terrortoriun, #21 Ninye.",
+        "analysis": [
+          "#10 Chispa drops back from Group 3 mares grade (Tesio Stakes, 2040m) and draws barrier 2 with James McDonald retaining the ride. #13 Yauson possesses an outstanding strike rate (3 wins, 2 placings from 7 starts) and was late closing over 2000m at Caulfield. #14 Ichnusa is lightly raced (2 wins from 3 runs) and will relish the step up to 2000m. #12 Mr O'reilly maps to dictate terms on the rail. "
+        ],
+        "exotics": "Quinella: 10, 13 | Trifecta: 10, 13 / 10, 12, 13, 14 / 4, 7, 8, 10, 12, 13, 14",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 3,
+        "title": "TAB ONE POOL Trophy",
+        "meta": "1800m, 3YO SW+P",
+        "time": "12:00 pm",
+        "selections": [
+          {
+            "name": "Star Of Macedon",
+            "number": 2
+          },
+          {
+            "name": "Waiheke Rose",
+            "number": 7
+          },
+          {
+            "name": "Mister Whiskers",
+            "number": 1
+          },
+          {
+            "name": "Gilgeous",
+            "number": 4
+          }
+        ],
+        "scratchings": "#3 True Tone, #11 Star Je Taime.",
+        "analysis": [
+          "#2 Star Of Macedon flashed home with fastest race splits in the Gothic Stakes (1400m) and will relish the rise to 1800m with Blake Shinn aboard. #1 Mister Whiskers is unbeaten in two starts, including an all-the-way Caulfield 1600m win, and rolls forward from gate 2. #7 Waiheke Rose won dominantly over 1500m at Kembla Grange and makes her own luck on pace. #8 Fringilla proved her staying potential winning over 1765m at Geelong. "
+        ],
+        "exotics": "Quinella: 2, 7 | Trifecta: 2, 7 / 1, 2, 7 / 1, 2, 4, 7, 8",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 4,
+        "betType": "Win / Each-Way",
+        "quinella": "2 / 7",
+        "trifecta": "2, 7 / 1, 2, 7 / 1, 2, 4, 7, 8",
+        "confidence": 8.5
+      },
+      {
+        "number": 4,
+        "title": "The Schweppervescence Plate",
+        "meta": "1000m, 3YO SW+P",
+        "time": "12:40 pm",
+        "selections": [
+          {
+            "name": "Peyton",
+            "number": 4
+          },
+          {
+            "name": "Parcae",
+            "number": 12
+          },
+          {
+            "name": "The Speed Machine",
+            "number": 2
+          },
+          {
+            "name": "Fovea",
+            "number": 13
+          }
+        ],
+        "scratchings": "#11 Semantics, #14 Southern Sway.",
+        "analysis": [
+          "Straight-track 1000m dash. #12 Parcae has demonstrated blistering early toe, winning both starts including a soft track victory at Seymour. #4 Peyton arrives from Sydney Group 2 company (Roman Consul) where he was severely checked at a crucial stage; he brings strong form down the Flemington straight. #2 The Speed Machine is ultra-consistent at metro level (2 wins, 2 seconds from 5 starts). #13 Fovea has sharp speed from barrier 2. "
+        ],
+        "exotics": "Quinella: 4, 12 | Trifecta: 4, 12 / 2, 4, 12, 13 / 1, 2, 3, 4, 7, 12, 13",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 6,
+        "betType": "Each-Way",
+        "quinella": "4 / 12",
+        "trifecta": "4, 12 / 2, 4, 12, 13 / 1, 2, 3, 4, 7, 12, 13",
+        "confidence": 8.0
+      },
+      {
+        "number": 5,
+        "title": "Australian Heritage Cup",
+        "meta": "2800m, BM96",
+        "time": "1:20 pm",
+        "selections": [
+          {
+            "name": "Jennivamoose",
+            "number": 5
+          },
+          {
+            "name": "Tempesti",
+            "number": 4
+          },
+          {
+            "name": "Grand Pierro",
+            "number": 11
+          },
+          {
+            "name": "Sir Chartwell",
+            "number": 15
+          }
+        ],
+        "scratchings": "#1 Newlook, #19 Wuddez, #21 Suffolk Star, #22 Bur Dubai.",
+        "analysis": [
+          "Genuine marathon staying test. #5 Jennivamoose caught the eye late behind Juja Kibo in the Bart Cummings over 2520m and enters peak fitness. #4 Tempesti brings superior staying formlines, having run second to So You Are (subsequent Bendigo Cup winner) over 2600m at Randwick. #11 Grand Pierro is proven at this exact track and distance. #17 Autumnheat and #15 Sir Chartwell are both genuine lightweight threats. "
+        ],
+        "exotics": "Quinella: 4, 5 | Trifecta: 4, 5 / 4, 5, 11, 15 / 3, 4, 5, 10, 11, 15, 17",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 6,
+        "title": "Asahi Super Dry Plate",
+        "meta": "1800m, Listed",
+        "time": "1:55 pm",
+        "selections": [
+          {
+            "name": "Sabaj",
+            "number": 4
+          },
+          {
+            "name": "Darkbonee",
+            "number": 10
+          },
+          {
+            "name": "Wymark",
+            "number": 7
+          },
+          {
+            "name": "Al Duca",
+            "number": 6
+          }
+        ],
+        "scratchings": "#1 Augustus, #3 Tavi Time, #12 Real Class, #14 Different Gravy.",
+        "analysis": [
+          "#4 Sabaj stands out as the genuine class runner of the card. Despite drawing awkwardly in the Group 1 Toorak Handicap last start, he drops sharply in grade to 1800m Listed company and has Mark Zahra in the saddle. #10 Darkbonee boasts elite consistency (13: 4-3-4), missing by 0.4L in the Coongy Handicap. #6 Al Duca and #7 Wymark renew their rivalry from the Seymour Cup. "
+        ],
+        "exotics": "Quinella: 4, 10 | Trifecta: 4 / 6, 7, 10 / 2, 5, 6, 7, 10",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 1,
+        "betType": "Win / Best Bet",
+        "quinella": "4 / 10",
+        "trifecta": "4 / 6, 7, 10 / 2, 5, 6, 7, 10",
+        "confidence": 9.6
+      },
+      {
+        "number": 7,
+        "title": "Lexus Melbourne Cup",
+        "meta": "3200m, Group 1",
+        "time": "3:00 pm",
+        "selections": [
+          {
+            "name": "Hopewell Rock",
+            "number": 12
+          },
+          {
+            "name": "Trustyourinstinct",
+            "number": 2
+          },
+          {
+            "name": "James J Braddock",
+            "number": 18
+          },
+          {
+            "name": "Juja Kibo",
+            "number": 11
+          },
+          {
+            "name": "Point Of Law",
+            "number": 20
+          }
+        ],
+        "scratchings": "",
+        "analysis": [
+          "A wide-open two-mile staying battle. ",
+          "#12 Hopewell Rock ($8.00): Top UK stayer carrying just 54.5kg with Zac Lloyd. Finished an unlucky 2nd in the Ebor Handicap (2787m) and won over 2816m at Goodwood. Maps to find cover midfield off what should be an honest tempo. ",
+          "#2 Trustyourinstinct ($8.00): Class European stayer with 9 wins from 30 starts, coming off a strong 4th in the Irish St Leger behind Scandinavia. James McDonald rides. ",
+          "#18 James J Braddock ($20.00): Flying under the radar for Joseph O'Brien with just 53.5kg and Craig Williams. Solid UK Group form. ",
+          "#11 Juja Kibo ($13.00): The form local horse, taking out both the Group 1 The Metropolitan (2400m) and the Moonee Valley Gold Cup (2500m) in brilliant style. ",
+          "#20 Point Of Law ($8.50): Frankel stallion coming off a determined Geelong Cup win. ",
+          "#24 Shockletz ($12.00): Gets in on the 51kg limit; won the Archer Stakes (2500m) and runner-up in the Tesio Stakes. "
+        ],
+        "exotics": "Quinella: 2, 12 | Box Quinella: 2, 11, 12, 18",
+        "cupTrifecta": "2, 11, 12, 18 / 2, 11, 12, 18, 20 / 2, 6, 11, 12, 18, 20",
+        "firstFour": "2, 11, 12, 18 / 2, 11, 12, 18, 20 / 2, 6, 11, 12, 18, 20 / 2, 4, 6, 10, 11, 12, 16, 18, 20, 22, 24"
+      },
+      {
+        "number": 8,
+        "title": "Crown Amanda Elliott",
+        "meta": "1400m, Listed 3YO",
+        "time": "3:50 pm",
+        "selections": [
+          {
+            "name": "Ranarsson",
+            "number": 5
+          },
+          {
+            "name": "Barracks",
+            "number": 2
+          },
+          {
+            "name": "Mr Natural",
+            "number": 13
+          },
+          {
+            "name": "Milsons Point",
+            "number": 1
+          }
+        ],
+        "scratchings": "#4 Beautiful You, #6 High Falls, #10 Obambulate, #11 Autumn Lover.",
+        "analysis": [
+          "#5 Ranarsson is unbeaten in two starts, including an arrogant 3.25L win at Cranbourne over 1400m. #2 Barracks was heavily checked in the Blue Sapphire (1200m) when 2nd by 0.02L and will appreciate stepping to 1400m. #13 Mr Natural ran outstanding closing splits over 1400m at Geelong. #1 Milsons Point won the Gothic Stakes at 61/1 and must be respected. "
+        ],
+        "exotics": "Quinella: 2, 5 | Trifecta: 2, 5 / 1, 2, 5, 13 / 1, 2, 3, 5, 8, 9, 13",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 3,
+        "betType": "Win",
+        "quinella": "2 / 5",
+        "trifecta": "2, 5 / 1, 2, 5, 13 / 1, 2, 3, 5, 8, 13",
+        "confidence": 8.8
+      },
+      {
+        "number": 9,
+        "title": "The Hong Kong Jockey Club Stakes",
+        "meta": "1400m, Group 3 Mares",
+        "time": "4:35 pm",
+        "selections": [
+          {
+            "name": "Shadhavar",
+            "number": 2
+          },
+          {
+            "name": "So You Pence",
+            "number": 7
+          },
+          {
+            "name": "Terilee",
+            "number": 8
+          },
+          {
+            "name": "Dance To The Boom",
+            "number": 4
+          }
+        ],
+        "scratchings": "#16 You Sexy Thing, #18 Karren.",
+        "analysis": [
+          "#2 Shadhavar led all the way in dominant fashion to claim the Group 2 Tristarc Stakes (1400m) at Caulfield. Drawn barrier 2 with Craig Williams, she controls the speed. #7 So You Pence was 3rd in The Kosciuszko and is lethal second-up. #8 Terilee flew home for 2nd behind Shadhavar in the Tristarc and will be finishing hard. #4 Dance To The Boom and #1 Stylish have genuine each-way claims. "
+        ],
+        "exotics": "Quinella: 2, 7 | Trifecta: 2, 4, 5, 7, 8 / 2, 4, 5, 7, 8 / 2, 3, 4, 5, 7, 8, 11, 12",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 2,
+        "betType": "Win",
+        "quinella": "2 / 7",
+        "trifecta": "2, 4, 7, 8 / 2, 4, 7, 8 / 1, 2, 3, 4, 5, 7, 8",
+        "confidence": 9.2
+      },
+      {
+        "number": 10,
+        "title": "Channel 9 Trophy",
+        "meta": "1400m, BM90",
+        "time": "5:15 pm",
+        "selections": [
+          {
+            "name": "Buccleuch",
+            "number": 1
+          },
+          {
+            "name": "Everain",
+            "number": 12
+          },
+          {
+            "name": "Jett Smash",
+            "number": 7
+          },
+          {
+            "name": "He'll Rip",
+            "number": 6
+          }
+        ],
+        "scratchings": "#3 Porter, #5 Surf's Up, #10 Man Of Worth.",
+        "analysis": [
+          "#1 Buccleuch is airborne this preparation with 3 wins from 4 runs, scoring stylishly over 1440m at Caulfield. #12 Everain clocked the fastest late splits at Geelong when resuming and gets in light with Zac Lloyd. #7 Jett Smash brings elite speed. #6 He'll Rip and #14 Fundamental Nature add serious depth. "
+        ],
+        "exotics": "Quinella: 1, 12 | Trifecta: 1, 6, 7, 12, 14 / 1, 4, 6, 7, 12, 14 / 1, 4, 6, 7, 8, 12, 14",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 5,
+        "betType": "Win",
+        "quinella": "1 / 12",
+        "trifecta": "1, 12 / 1, 6, 7, 12, 14 / 1, 4, 6, 7, 8, 12, 14",
+        "confidence": 8.3
+      }
+    ],
+    "quaddie": [
+      {
+        "race": 7,
+        "numbers": [
+          2,
+          11,
+          12,
+          18,
+          20,
+          24
+        ]
+      },
+      {
+        "race": 8,
+        "numbers": [
+          2,
+          5,
+          13
+        ]
+      },
+      {
+        "race": 9,
+        "numbers": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          11,
+          12
+        ]
+      },
+      {
+        "race": 10,
+        "numbers": [
+          1,
+          4,
+          6,
+          7,
+          8,
+          12,
+          14
+        ]
+      }
+    ],
+    "source": "Ai tips Flemington.docx"
+  },
+  {
+    "id": "randwick",
+    "name": "Randwick",
+    "state": "NSW",
+    "timezone": "AEDT",
+    "rail": "Rail +2m",
+    "condition": "Good 4 / Soft 5",
+    "profile": "Track & Rail Bias Profile\nVenue & Date: Royal Randwick, Tuesday 3 November 2026. \nRail: +2m Entire Circuit. \nTrack Conditions: Good 4 / Soft 5. With the rail out slightly and fine conditions, the track allows horses to win from both forward and off-speed positions, provided they can balance before the rise at the 300m mark. \nRace-by-Race Analysis & Tactical Breakdown",
+    "races": [
+      {
+        "number": 1,
+        "title": "Midway Handicap",
+        "meta": "1800m, BM72",
+        "time": "11:45 am",
+        "selections": [
+          {
+            "name": "Cabbucio",
+            "number": 10
+          },
+          {
+            "name": "All Star",
+            "number": 4
+          },
+          {
+            "name": "Malbork Castle",
+            "number": 3
+          },
+          {
+            "name": "La Morra",
+            "number": 6
+          }
+        ],
+        "scratchings": "#1 Commodus.",
+        "analysis": [
+          "#10 Cabbucio (55.5kg, Coriah Keatings a3) brings elite consistency (7: 2-2-2). She ran a slashing 3rd in Midway BM72 grade over this track and trip behind Philatelic, beaten just 0.35L. With the 3kg claim and barrier 2, she maps for the box seat. #4 All Star (58kg, Reece Jones) is flying this preparation (17: 3-2-3), finishing a brave 2nd over 1600m here before battling into 6th over 1800m. #3 Malbork Castle won nicely at Hawkesbury over 1800m with 60.5kg and drops in weight with Jason Collett taking the reins. #6 La Morra took out a 1600m event at Kembla Grange and stays under notice. ",
+          "Speed: #9 Darn Cute and #4 All Star inject speed; #10 Cabbucio tracks right behind. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 2,
+        "title": "TAB Highway Handicap",
+        "meta": "1000m, Class 3",
+        "time": "12:25 pm",
+        "selections": [
+          {
+            "name": "Flirtation",
+            "number": 16
+          },
+          {
+            "name": "Ready To Rush",
+            "number": 10
+          },
+          {
+            "name": "Angie's Sister",
+            "number": 4
+          },
+          {
+            "name": "Bombay Boom",
+            "number": 3
+          }
+        ],
+        "scratchings": "#2 Veecee, #6 Triple Yes, #11 Nevermista, #13 Home Siren, #18 Tommy's Girl.",
+        "analysis": [
+          "#16 Flirtation (Paul Messara & Leah Gavranich / Ashley Morgan) is building an exceptional profile (3: 1-2-0). She dominated her maiden at Scone and placed in subsequent Class 1 company. Her trial win at Muswellbrook was razor sharp, and drawing barrier 5 under 54kg gives her an ideal map. #4 Angie's Sister has high country speed, winning her last two at Dubbo and Wellington by margins. #10 Ready To Rush is proven in Highway company (won over this track/distance with 54kg). #3 Bombay Boom (Nash Rawiller) and #12 Star Of Lily add strong depth. ",
+          "Speed: 4, 1, 9, and 14 ensure blistering speed; 16 stalks just off the speed. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 6,
+        "betType": "Each-Way",
+        "quinella": "10 / 16",
+        "trifecta": "16 / 3, 4, 10 / 1, 3, 4, 8, 10, 12, 14",
+        "confidence": 8.3
+      },
+      {
+        "number": 3,
+        "title": "Alinta Energy Handicap",
+        "meta": "1300m, 3&4YO BM64",
+        "time": "1:05 pm",
+        "selections": [
+          {
+            "name": "Graffiti Tycoon",
+            "number": 5
+          },
+          {
+            "name": "I Am Adonis",
+            "number": 6
+          },
+          {
+            "name": "Cruizingthestars",
+            "number": 1
+          },
+          {
+            "name": "Hellenic Belle",
+            "number": 11
+          }
+        ],
+        "scratchings": "#2 Extra Heights, #9 Sky Deck, #12 Rolling Home, #13 Menshevik, #15 Skirmish, #18 Baylie's Folly, #20 Good'n'you.",
+        "analysis": [
+          "#5 Graffiti Tycoon (John O'Shea & Tom Charlton / Nash Rawiller) has never missed the quinella in four career runs (4: 1-3-0). Resumed with a strong Kembla Grange victory over 1300m and trialled well at Randwick. Despite a wide gate, Nash Rawiller will roll forward into a commanding positing. #6 I Am Adonis was a convincing winner over 1300m at Wyong and was only 2.1L off them in BM78 company at Rosehill. #1 Cruizingthestars is an honest mare (4 wins from 6 starts). #11 Hellenic Belle drops back from Group company and soft-track efforts. ",
+          "Speed: 1, 3, and 6 push the pace; 5 slides across into the running line. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 4,
+        "title": "Toyota Forklifts Handicap",
+        "meta": "1500m, 5YO+ BM88",
+        "time": "1:40 pm",
+        "selections": [
+          {
+            "name": "Man Of Worth",
+            "number": 6
+          },
+          {
+            "name": "Rock Empire",
+            "number": 4
+          },
+          {
+            "name": "Gallant Star",
+            "number": 1
+          },
+          {
+            "name": "Flying Bandit",
+            "number": 3
+          }
+        ],
+        "scratchings": "#10 Super Helpful, #12 Acheson.",
+        "analysis": [
+          "#6 Man Of Worth (Chris Waller / Kerrin McEvoy) was third in a BM88 at Randwick over 1400m behind Cross Tasman, finishing off strongly. Out to 1500m on his home track with 56.5kg from barrier 2, he gets an uninterrupted run. #4 Rock Empire (Ciaron Maher / Nash Rawiller) is a tough frontrunner who won a BM88 over 1600m here during winter and has strong claims if he controls the tempo. #1 Gallant Star ran a credible 4.2L in The Kosciuszko and carries 57.5kg after the 3kg claim. #3 Flying Bandit is a stakes-class stayer kicking off his campaign with genuine closing ability. ",
+          "Speed: 4 and 7 lead; 6 box-seats; 1 and 3 settle midfield and rear. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 5,
+        "title": "Big Dance",
+        "meta": "1600m, Quality Listed",
+        "time": "2:20 pm",
+        "selections": [
+          {
+            "name": "Gringotts",
+            "number": 1
+          },
+          {
+            "name": "Formal Display",
+            "number": 2
+          },
+          {
+            "name": "Churchill's Choice",
+            "number": 11
+          },
+          {
+            "name": "Matias",
+            "number": 16
+          }
+        ],
+        "scratchings": "#13 Mighty Ulysses. (Emergencies #21 I've Bean Tryin', #22 Dubai Warrior, #23 Michelangelo, #24 Dances With Hooves are looking for starts; #12 Cavalry Man was scratched prior).",
+        "analysis": [
+          "",
+          "#1 Gringotts (62kg, Nash Rawiller): The undisputed class horse of the race with over $6.6M in earnings (32: 12-6-5). Carried big weights to success in the Alan Brown Stakes (1400m) and the 7 Stakes (1600m). He handles any going, maps ideally from barrier 9, and will be charging over the top. ",
+          "#2 Formal Display (56.5kg, Chad Schofield): Explosive miler from the Archibald stable (19: 8-2-2). Won the Alan Brown Stakes in slick fashion and gets barrier 2 to stalk right on the paint. ",
+          "#11 Churchill's Choice (53kg, Kerrin McEvoy): Down on the limit weight; caught wide in the Group 3 Angst Stakes and has dynamic residual fitness. ",
+          "#16 Matias (53kg, Reece Jones): Strong runner-up in the Wild Card race over this course and distance behind It's A Knockout. ",
+          "Speed: #5 Fully Lit and #8 Puntin will work forward at speed; #2 Formal Display, #3 Magnatear, and #1 Gringotts sit in stalking range. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 6,
+        "title": "Barn Dance",
+        "meta": "1300m, Quality Handicap",
+        "time": "3:30 pm",
+        "selections": [
+          {
+            "name": "Lord Remlap",
+            "number": 6
+          },
+          {
+            "name": "Lisztomania",
+            "number": 2
+          },
+          {
+            "name": "Boom Torque",
+            "number": 4
+          },
+          {
+            "name": "Off The Press",
+            "number": 9
+          }
+        ],
+        "scratchings": "#1 Chidiac, #3 So You Pence, #13 Bon Holler, #16 Love Shuck, #17 Rose Aye.",
+        "analysis": [
+          "#6 Lord Remlap (Scott Singleton / Mikayla Weir) boasts an enviable record (4 wins from 6 starts). He won a Highway with ease at Randwick carrying 57kg and comes through a solid 6th in The Kosciuszko, only beaten 2.9L. Barrier 3 with 54kg is a perfect setup. #2 Lisztomania has won over $800k in prize money; ran 5th in The Kosciuszko after winning a Rosehill BM94. He will storm late. #4 Boom Torque (Nash Rawiller) brings rich Queensland metro/Listed form. #9 Off The Press has placed in 5 of his last 6 runs and carries light weight. ",
+          "Speed: 5, 8, 12, and 15 ensure genuine tempo; 6 sits midfield on rail. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 5,
+        "betType": "Win / Each-Way",
+        "quinella": "2 / 6",
+        "trifecta": "6 / 2, 4 / 2, 4, 8, 9, 10, 11",
+        "confidence": 8.6
+      },
+      {
+        "number": 7,
+        "title": "Little Dance",
+        "meta": "1600m, Quality Handicap",
+        "time": "4:10 pm",
+        "selections": [
+          {
+            "name": "Fukubana",
+            "number": 4
+          },
+          {
+            "name": "I'mintowin",
+            "number": 2
+          },
+          {
+            "name": "Estadio Mestalla",
+            "number": 1
+          },
+          {
+            "name": "Zaphod",
+            "number": 3
+          }
+        ],
+        "scratchings": "#5 I've Bean Tryin' (engaged elsewhere/scratched), #7 Flying From Above, #11 Michelangelo, #12 Dances With Hooves, #20 Micro Mikki.",
+        "analysis": [
+          "#4 Fukubana (Matthew Dunn / Chad Schofield) has outstanding credentials (21: 5-6-4). He placed in the Members Cup at Eagle Farm and was narrowly beaten in the Lismore Cup with 62kg. Dropping to 55kg from barrier 1 allows Chad Schofield to hold the rail behind the leaders and explode late. #2 I'mintowin (Regan Bayliss) was fourth in a high-rating BM94 over 1600m at Randwick and won a recent trial by 7 lengths. #1 Estadio Mestalla carries top weight of 62kg but was second in the Alan Brown Stakes. #3 Zaphod is a reliable each-way contender. ",
+          "Speed: 2, 6, and 14 set the pace; 4 box-seats; 1 trails. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 3,
+        "betType": "Win / Each-Way",
+        "quinella": "2 / 4",
+        "trifecta": "4 / 1, 2, 3 / 1, 2, 3, 6, 8, 9",
+        "confidence": 9.0
+      },
+      {
+        "number": 8,
+        "title": "Asahi Super Dry Choisir Handicap",
+        "meta": "1100m, BM100",
+        "time": "4:50 pm",
+        "selections": [
+          {
+            "name": "Wanaruah",
+            "number": 2
+          },
+          {
+            "name": "Kerguelen",
+            "number": 6
+          },
+          {
+            "name": "Accredited",
+            "number": 3
+          },
+          {
+            "name": "Signor Tortoni",
+            "number": 7
+          }
+        ],
+        "scratchings": "#1 Maharba, #5 Avintress.",
+        "analysis": [
+          "#2 Wanaruah (Brett & Georgie Cavanough / Braith Nock a1.5) is an electric sprinter with 5 wins from 11 starts. He demonstrated high-class cruising speed when winning a BM94 at Randwick carrying 61.5kg, and took out the Listed Bob Charley Stakes here earlier in the year. From barrier 3 with the claim, he will lead or sit outside lead and prove formidable to run down. #6 Kerguelen (Joseph Pride / Nash Rawiller) maps to sit off him; was an unlucky 3rd in BM100 grade at Warwick Farm recently. #3 Accredited has 7 wins and 5 seconds from 26 starts and always hits the line strongly. #7 Signor Tortoni has won 6 races and can figure in exotics. ",
+          "Speed: 2 crosses to lead; 9 and 8 press forward; 6 and 3 stalk. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 1,
+        "betType": "Win / Best Bet",
+        "quinella": "2 / 6",
+        "trifecta": "2 / 3, 6 / 3, 6, 7, 8, 9",
+        "confidence": 9.6
+      },
+      {
+        "number": 9,
+        "title": "Quayclean Handicap",
+        "meta": "1000m, BM84",
+        "time": "5:30 pm",
+        "selections": [
+          {
+            "name": "Compensation",
+            "number": 4
+          },
+          {
+            "name": "Bruce I Am",
+            "number": 12
+          },
+          {
+            "name": "Hay Street",
+            "number": 8
+          },
+          {
+            "name": "Generous Harry",
+            "number": 5
+          }
+        ],
+        "scratchings": "#2 Power Of The Brave, #3 Benevac, #6 Where'stheprofit, #11 Straand Beauty.",
+        "analysis": [
+          "#4 Compensation (Bjorn Baker / Amber Riddell a3) is a brilliant short-course speedster with 3 wins from 4 starts (75% win strike rate). Won back-to-back BM78 sprints at Randwick and Gosford in slick times. With a recent trial win and claiming down to 54.5kg, he will jump, run, and be hard to catch. #12 Bruce I Am (Joseph Pride / Andrew Adkins) is rapidly improving (5: 2-2-0), scoring strongly at Warwick Farm over 1000m. #8 Hay Street drops in weight and has trialled impressively at Scone. #5 Generous Harry boasts 5 wins from 16 starts and maps right on speed. ",
+          "Speed: 4, 5, and 12 contest the front running. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 2,
+        "betType": "Win",
+        "quinella": "4 / 12",
+        "trifecta": "4 / 5, 8, 12 / 1, 5, 7, 8, 12",
+        "confidence": 9.4
+      },
+      {
+        "number": 10,
+        "title": "The Agency Real Estate Handicap",
+        "meta": "1200m, BM84",
+        "time": "6:05 pm",
+        "selections": [
+          {
+            "name": "Enamorada",
+            "number": 8
+          },
+          {
+            "name": "Sweethearted",
+            "number": 3
+          },
+          {
+            "name": "Charcoals",
+            "number": 4
+          },
+          {
+            "name": "Oui Oui Oui",
+            "number": 10
+          }
+        ],
+        "scratchings": "#1 Theblade, #6 Amazing Eagle, #13 Who But Roo.",
+        "analysis": [
+          "#8 Enamorada (Ciaron Maher / Nash Rawiller) is a lightly raced mare with superior talent (6: 4-1-0). She was a dominant winner over 1400m at Randwick in BM72 company and was runner-up in an 84-rater at Caulfield. Ready to sprint well fresh, and Nash Rawiller taking the ride is a significant booking. #3 Sweethearted (Phillip & Tommy Stokes / Chad Schofield) won a Caulfield BM78 over 1100m last start and has 4 wins from 18 runs. #4 Charcoals (Anthony & Sam Freedman / Dylan Gibbons) is a 7-time winner who drops back into Sydney handicap company. #10 Oui Oui Oui has won 5 of 13 and handles the Randwick course. ",
+          "Speed: 2, 7, and 14 ensure solid speed; 8 and 3 stalk midfield. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 4,
+        "betType": "Win",
+        "quinella": "3 / 8",
+        "trifecta": "8 / 3, 4 / 2, 3, 4, 5, 7, 10",
+        "confidence": 8.8
+      }
+    ],
+    "quaddie": [
+      {
+        "race": 7,
+        "numbers": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "race": 8,
+        "numbers": [
+          2,
+          3,
+          6
+        ]
+      },
+      {
+        "race": 9,
+        "numbers": [
+          4,
+          8,
+          12
+        ]
+      },
+      {
+        "race": 10,
+        "numbers": [
+          3,
+          4,
+          8,
+          10
+        ]
+      }
+    ],
+    "source": "AI tips randwick.docx"
+  },
+  {
+    "id": "doomben",
+    "name": "Doomben",
+    "state": "QLD",
+    "timezone": "AEST",
+    "rail": "Rail +7m",
+    "condition": "Turf",
+    "profile": "Track & Conditions Overview\nVenue & Date: Doomben, Tuesday 3 November 2026. \nRail: +7 metres Entire Course. \nStraight: 343 metres; Circumference: 1725 metres. \nTrack Profile: With the rail pushed out 7 metres, horses that can settle in the first 2–4 pairs or hold a position within two off the fence on the turn hold a distinct tactical advantage. Finding clear air on straightening before the short 343m home straight is critical. \nRace-by-Race Summary & Tactical Form Notes",
+    "races": [
+      {
+        "number": 1,
+        "title": "SKY RACING 3YO QTIS Maiden Plate",
+        "meta": "1640m",
+        "time": "10:53 am",
+        "selections": [
+          {
+            "name": "Spirit Of Torque",
+            "number": 7
+          },
+          {
+            "name": "Just Say Vale",
+            "number": 4
+          },
+          {
+            "name": "Alto Luna",
+            "number": 1
+          },
+          {
+            "name": "Notes Of Autumn",
+            "number": 5
+          }
+        ],
+        "scratchings": "",
+        "analysis": [
+          "#7 Spirit Of Torque (56kg, Cejay Graham) brings the strongest metro credential, having placed 3rd over 1600m at Doomben in 3YO Open Handicap grade behind Win Star. She is proven at the track and trip. #4 Just Say Vale (56kg, Angela Jones) is a well-bred filly (Frankel x Vale Dori) from the Tony Gollan stable who should appreciate stepping out from 1400m. #1 Alto Luna has shown honest minor-placing form over distance. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 2,
+        "title": "LADBROKES HOSTED POTS 3YO & 4YO QTIS BM68 Handicap",
+        "meta": "1640m",
+        "time": "11:33 am",
+        "selections": [
+          {
+            "name": "Swanfels",
+            "number": 5
+          },
+          {
+            "name": "Cryption's Desire",
+            "number": 1
+          },
+          {
+            "name": "Paciera",
+            "number": 2
+          },
+          {
+            "name": "Ancestral",
+            "number": 6
+          }
+        ],
+        "scratchings": "",
+        "analysis": [
+          "#5 Swanfels (59kg, Daniel Moor) defeated several of these rivals over 1666m at Ipswich last start with an authoritative on-pace display. #1 Cryption's Desire (60kg, Brandon Lerena) chased Swanfels hard when runner-up and meets the winner slightly better at the weights. #2 Paciera is in winning form, having claimed two on the bounce at the Gold Coast (1400m) and Sunshine Coast (1300m). #6 Ancestral won over 1660m at Doomben two starts back for Chris Waller. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 3,
+        "title": "DRINKWISE BM70 Handicap",
+        "meta": "2220m",
+        "time": "12:13 pm",
+        "selections": [
+          {
+            "name": "Draw Attention",
+            "number": 3
+          },
+          {
+            "name": "Castello Grande",
+            "number": 4
+          },
+          {
+            "name": "Trusty Bandit",
+            "number": 5
+          },
+          {
+            "name": "Whatjeudoin'",
+            "number": 2
+          }
+        ],
+        "scratchings": "#1 Hot Majesty, #6 Outburst.",
+        "analysis": [
+          "#3 Draw Attention (58kg, Ben Thompson) produced one of the most dominant staying performances of the spring, gapping her rivals by 8.18 lengths over 2235m at the Gold Coast on soft going. Tony Gollan has her in peak condition, and barrier 3 gives her an untaxed run. #4 Castello Grande ran 2nd over 2200m at Eagle Farm in BM70 grade behind Cigar Man. #2 Whatjeudoin' and #5 Trusty Bandit have proven metropolitan staying wins. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 1,
+        "betType": "Best bet",
+        "confidence": 9.6,
+        "quinella": "3 / 4",
+        "trifecta": "3 / 4 / 2, 5",
+        "bestAnalysis": "Put together a dominant 8.18-length victory over 2235m at the Gold Coast last start, running away from her opposition with ease. Draws barrier 3 in a decimated five-horse field. Ben Thompson retains the mount, and she has proven superior at the middle-distance trip."
+      },
+      {
+        "number": 4,
+        "title": "HAPPY RETIREMENT ROTHFIRE QTIS 3YO Maiden Plate",
+        "meta": "1200m",
+        "time": "12:48 pm",
+        "selections": [
+          {
+            "name": "Malamagic",
+            "number": 5
+          },
+          {
+            "name": "Overabundant",
+            "number": 7
+          },
+          {
+            "name": "Zoucoup",
+            "number": 12
+          },
+          {
+            "name": "Vital Impact",
+            "number": 14
+          }
+        ],
+        "scratchings": "#3 Golden Glass, #4 Inzain Dragon, #6 Motivating, #8 Plan Of Attack, #11 The Grey One.",
+        "analysis": [
+          "#5 Malamagic (58kg, Daniel Moor) was heavily backed on debut at Eagle Farm (1000m) and hit the line hard for 2nd. #7 Overabundant (58kg, Andrew Mallyon) also debuted in that same Eagle Farm race, beaten under a length into 3rd. #12 Zoucoup won a recent trial at the Sunshine Coast in slick fashion. #14 Vital Impact was a close 2nd over 1200m at the Gold Coast. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 5,
+        "title": "INTRO RECRUITMENT CUP QTIS 3YO Maiden Plate",
+        "meta": "1200m",
+        "time": "1:35 pm",
+        "selections": [
+          {
+            "name": "Holy Terror",
+            "number": 3
+          },
+          {
+            "name": "Volcanic Rush",
+            "number": 11
+          },
+          {
+            "name": "Sibi Ipse Fortunae",
+            "number": 8
+          },
+          {
+            "name": "Cavalluna",
+            "number": 1
+          }
+        ],
+        "scratchings": "#2 Flying Forward, #4 Iron Hide.",
+        "analysis": [
+          "#3 Holy Terror (58kg, Ryan Maloney) resumed over 1000m at Eagle Farm and was only denied by 0.13L on the line. He will relish stepping up to 1200m. #11 Volcanic Rush chased strongly on debut over 1200m at Eagle Farm when 2nd behind Jimmy The Scat. #8 Sibi Ipse Fortunae filled the minor placing in that same race and maps handily. #10 Vice Royal has shown trial speed. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 5,
+        "betType": "Top pick",
+        "confidence": 8.5,
+        "quinella": "3 / 11",
+        "trifecta": "3 / 8, 11 / 1, 5, 8, 9, 10, 11",
+        "bestAnalysis": "Resumed from a spell with a late-closing 2nd at Eagle Farm over 1000m, missing by just 0.13L. Stepping to 1200m at Doomben suits his racing style, and Ryan Maloney in the saddle is a significant booking."
+      },
+      {
+        "number": 6,
+        "title": "MORETON HIRE Maiden Plate",
+        "meta": "1350m",
+        "time": "2:42 pm",
+        "selections": [
+          {
+            "name": "Veomas",
+            "number": 7
+          },
+          {
+            "name": "Hard Knox",
+            "number": 3
+          },
+          {
+            "name": "So Elusive",
+            "number": 14
+          },
+          {
+            "name": "Xami",
+            "number": 16
+          }
+        ],
+        "scratchings": "#2 Funny Stories, #6 Poor Ol' Johny Ray, #10 Yukon Ready, #12 Flying Poppi, #15 Mystical.",
+        "analysis": [
+          "#7 Veomas (58.5kg, Angela Jones) was nabbed by a neck over 1350m at Ipswich last start after leading. Drawn barrier 3, he maps to dictate terms. #3 Hard Knox has placed in 4 of his 5 career runs, including a 3rd over this course and distance. #14 So Elusive was 2nd over 1350m at Doomben earlier in the year. #16 Xami is a well-trialled first starter from the Chris Waller stable. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 7,
+        "title": "CANADIAN CLUB F&M Class 1 Handicap",
+        "meta": "1200m",
+        "time": "3:23 pm",
+        "selections": [
+          {
+            "name": "Fleeting Boom",
+            "number": 3
+          },
+          {
+            "name": "Olivoni",
+            "number": 1
+          },
+          {
+            "name": "Trinity State",
+            "number": 8
+          },
+          {
+            "name": "Raging Raider",
+            "number": 4
+          }
+        ],
+        "scratchings": "#6 Happyaziam, #7 Hidden Whisper.",
+        "analysis": [
+          "#3 Fleeting Boom (58.5kg, Ben Thompson) was dominant leading all the way to take out a 1200m maiden at Doomben last start. She draws gate 2 to control the tempo. #1 Olivoni (59.5kg, Ryan Maloney) was beaten a neck in Class 1 company at Eagle Farm over 1000m and brings Stakes-class juvenile form. #8 Trinity State scored stylishly at Grafton before placing at Port Macquarie. #4 Raging Raider has solid metro formlines. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 4,
+        "betType": "Top pick",
+        "confidence": 8.7,
+        "quinella": "1 / 3",
+        "trifecta": "1, 3 / 1, 3, 8 / 1, 2, 3, 4, 5, 8, 9",
+        "bestAnalysis": "Progressive 3YO filly who led all the way to take out a 1200m maiden at Doomben in fast time. Ben Thompson rides from barrier 2, allowing her to control the speed against her own sex in Class 1 grade."
+      },
+      {
+        "number": 8,
+        "title": "CENTURY POOLS CG&E Class 1 Handicap",
+        "meta": "1200m",
+        "time": "4:07 pm",
+        "selections": [
+          {
+            "name": "Pinot Pirate",
+            "number": 10
+          },
+          {
+            "name": "Another Cashie",
+            "number": 3
+          },
+          {
+            "name": "Disparate",
+            "number": 9
+          },
+          {
+            "name": "Quickzou",
+            "number": 5
+          }
+        ],
+        "scratchings": "#4 Meet George.",
+        "analysis": [
+          "#10 Pinot Pirate (54.5kg, Cejay Graham) was airborne on debut, leading and winning by 4.66 lengths at Gatton. He backed that up with an effortless Gold Coast trial win. Carries a featherweight from gate 4. #3 Another Cashie was 2nd in a Doomben 1110m Class 2 two back and drops back from Saturday grade. #9 Disparate scored nicely at Ipswich over 1200m last start. #5 Quickzou has solid Eagle Farm form. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 6,
+        "betType": "Top pick",
+        "confidence": 8.2,
+        "quinella": "3 / 10",
+        "trifecta": "3, 10 / 3, 5, 9, 10 / 1, 3, 5, 7, 8, 9, 10",
+        "bestAnalysis": "Unbeaten gelding who dismantled his opposition on debut at Gatton, cruising away to score by 4.66 lengths. He proved that was no fluke with a dominant Gold Coast trial win. Drawn barrier 4 with only 54.5kg on his back."
+      },
+      {
+        "number": 9,
+        "title": "HIGGINS COATINGS Class 3 Plate",
+        "meta": "1110m",
+        "time": "4:46 pm",
+        "selections": [
+          {
+            "name": "La Roja",
+            "number": 13
+          },
+          {
+            "name": "Tasman Bay",
+            "number": 7
+          },
+          {
+            "name": "No Fooling",
+            "number": 2
+          },
+          {
+            "name": "Noble Decree",
+            "number": 3
+          }
+        ],
+        "scratchings": "#1 Chicago Fireball, #4 Robrick, #5 Blantons Run, #8 That's All Good, #11 Gagnante Enchere, #12 Isti Star.",
+        "analysis": [
+          "#13 La Roja (56.5kg, Ben Thompson) has a towering class advantage. She was runner-up in the Listed Eye Liner Stakes (1350m, Ipswich) behind Soothsayer and was 2nd in a BM78 at Randwick over 1400m. Coming into a Class 3 Set Weights race fresh from barrier 3, she is exceptionally placed. #7 Tasman Bay has won 3 of her 7 career starts, including a Doomben 1110m Class 1 win. #2 No Fooling won over this track and trip last start. #3 Noble Decree has 8 placings from 13 starts. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 3,
+        "betType": "Top pick",
+        "confidence": 8.9,
+        "quinella": "7 / 13",
+        "trifecta": "7, 13 / 2, 3, 7, 13 / 2, 3, 6, 7, 9, 10, 13",
+        "bestAnalysis": "Drops sharply in grade into a Class 3 Set Weights race. Brings Listed performance figures (2nd in the Eye Liner Stakes over 1350m behind Soothsayer) and metropolitan Randwick placings. Gets Ben Thompson from barrier 3."
+      },
+      {
+        "number": 10,
+        "title": "LADBROKES TURN ON FLEX MULTI BM68 Handicap",
+        "meta": "1350m",
+        "time": "5:25 pm",
+        "selections": [
+          {
+            "name": "Lebanese",
+            "number": 7
+          },
+          {
+            "name": "Kokatahi",
+            "number": 10
+          },
+          {
+            "name": "Swing State",
+            "number": 4
+          },
+          {
+            "name": "Don't Doubt Missy",
+            "number": 17
+          }
+        ],
+        "scratchings": "#1 Cal Bum, #2 He's Tru Blue, #6 Laridae, #9 Headhunter, #11 Divine Justice, #12 Nightcapped, #14 Till Dusk, #15 Jukebox In Siberia, #16 Kickuphigh, #18 Cantankerous, #19 Kadesky.",
+        "analysis": [
+          "#7 Lebanese (59kg, Emily Lang) was a tough all-the-way winner over this exact course and distance in BM70 grade on October 17. She has 2 wins from 5 attempts at the trip and maps to cross and lead with ease. #10 Kokatahi (58.5kg, Kyle Wilson-taylor) ran a narrow 2nd over 1350m at Doomben behind Smoke On The Water. #4 Swing State won a recent trial at the Gold Coast and is a winner up to 1690m. #17 Don't Doubt Missy has placed in 3 of her last 4 runs. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 2,
+        "betType": "Top pick",
+        "confidence": 9.2,
+        "quinella": "7 / 10",
+        "trifecta": "7 / 4, 10, 17 / 3, 4, 8, 10, 13, 17, 20",
+        "bestAnalysis": "Carried 56kg to an all-the-way victory over 1350m at Doomben in Saturday BM70 grade last start. The field has been cut by scratchings. Emily Lang understands the mare's racing style, and from barrier 8, she can cross to lead or sit outside the leader."
+      }
+    ],
+    "quaddie": [
+      {
+        "race": 7,
+        "numbers": [
+          1,
+          3,
+          8
+        ]
+      },
+      {
+        "race": 8,
+        "numbers": [
+          3,
+          5,
+          9,
+          10
+        ]
+      },
+      {
+        "race": 9,
+        "numbers": [
+          2,
+          7,
+          13
+        ]
+      },
+      {
+        "race": 10,
+        "numbers": [
+          4,
+          7,
+          10,
+          17
+        ]
+      }
+    ],
+    "source": "AI tips doomben.docx"
+  },
+  {
+    "id": "gold-coast",
+    "name": "Gold Coast",
+    "state": "QLD",
+    "timezone": "AEST",
+    "rail": "Rail true",
+    "condition": "Polytrack",
+    "profile": "Track & Conditions Overview\nVenue & Date: Aquis Park Gold Coast Poly, Tuesday 3 November 2026. \nSurface: Synthetic (Polytrack). \nRail: True Entire Circuit. \nTrack Dynamics: The Gold Coast Poly track strongly favours on-pace runners who can handle the kickback and navigate the tight turns. Horses with proven synthetic form hold a significant statistical advantage over turf-only runners transitioning to the surface. \nRace-by-Race Summary & Tactical Form Notes",
+    "races": [
+      {
+        "number": 1,
+        "title": "Ringers Western Maiden Handicap",
+        "meta": "1150m",
+        "time": "12:02 pm",
+        "selections": [
+          {
+            "name": "Symo's Boy",
+            "number": 3
+          },
+          {
+            "name": "Inzain Dragon",
+            "number": 5
+          },
+          {
+            "name": "Stellique",
+            "number": 8
+          },
+          {
+            "name": "Dirty Lil' Diva",
+            "number": 10
+          }
+        ],
+        "scratchings": "#2 Logan Downs, #4 Etta, #6 Rising Queen.",
+        "analysis": [
+          "#3 Symo's Boy (Adin Thompson) is the form runner with proven polytrack capability, finishing 3rd over this track and trip behind She's So Pretty on October 24. He draws barrier 6 to cross and sit on the speed. #5 Inzain Dragon (Jai Williams) has placed in metro/provincial 3YO company and won a trial at Doomben. #8 Stellique placed 3rd on debut at Gatton over 860m and trialled well on a soft track prior. #10 Dirty Lil' Diva has metropolitan NSW formlines and trialled nicely on the Poly. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": ""
+      },
+      {
+        "number": 2,
+        "title": "Tradezone Powering Your Next Win BM65 Handicap",
+        "meta": "1050m",
+        "time": "12:38 pm",
+        "selections": [
+          {
+            "name": "Decadad",
+            "number": 5
+          },
+          {
+            "name": "Sun Sister",
+            "number": 7
+          },
+          {
+            "name": "Sistine Explorer",
+            "number": 3
+          },
+          {
+            "name": "Cool Fizz",
+            "number": 4
+          }
+        ],
+        "scratchings": "#1 Tara's Reward.",
+        "analysis": [
+          "#5 Decadad (Amy Graham a2) is flying this preparation (13: 2-4-2) and scored a tough win at the Gold Coast turf over 1000m on October 17. He is a proven winner on the Polytrack over 1150m and maps for an economical run from barrier 2. #7 Sun Sister (Matthew Palmer) bolted in over this track and trip in BM58 grade two starts back, clocking 1:00.81. #3 Sistine Explorer ran 2nd over this track and trip carrying 61.5kg on October 24. #4 Cool Fizz is consistent across short courses (36: 5-14-1). "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 5,
+        "betType": "Top pick",
+        "confidence": 8.5,
+        "quinella": "5 / 7",
+        "trifecta": "5, 7 / 3, 5, 7 / 2, 3, 4, 5, 6, 7",
+        "bestAnalysis": "Consistent gelding who proved too tough over 1000m at the Gold Coast turf last start, winning under 59.5kg. He already has a win and a placing on the Polytrack and benefits from Amy Graham's 2kg allowance from gate 2."
+      },
+      {
+        "number": 3,
+        "title": "East Coast Concrete BM62 Handicap",
+        "meta": "1900m",
+        "time": "1:15 pm",
+        "selections": [
+          {
+            "name": "Sir Goldalot",
+            "number": 2
+          },
+          {
+            "name": "Coastal Cowboy",
+            "number": 3
+          },
+          {
+            "name": "Amelioration",
+            "number": 5
+          },
+          {
+            "name": "Cosmic Coco",
+            "number": 6
+          }
+        ],
+        "scratchings": "#4 Outburst, #7 Quality Miss.",
+        "analysis": [
+          "#2 Sir Goldalot (Fred Larson) is in career-best staying form, winning two of his last three including a front-running victory over 1900m on heavy ground at Toowoomba. He can roll to the front and dictate terms. #3 Coastal Cowboy (Danny Peisley) won by 4.89 lengths over 1800m at the Gold Coast on soft going and handles good tempos. #5 Amelioration is a serial winner over middle distances, scoring back-to-back victories over 1800m and 2200m at the Sunshine Coast. #6 Cosmic Coco ran 3rd on the Poly over 1540m on October 24. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 2,
+        "betType": "Top pick",
+        "confidence": 9.2,
+        "quinella": "2 / 3",
+        "trifecta": "2, 3 / 2, 3, 5 / 1, 2, 3, 5, 6, 8",
+        "bestAnalysis": "High-strike stayer in top form, winning two of his last three starts. Controlled the tempo to score by 1.7L over 1900m at Toowoomba on heavy ground last start. Gets Fred Larson aboard from barrier 4 in a small field with minimal early pressure."
+      },
+      {
+        "number": 4,
+        "title": "Tradepro's Time For A New Bathroom Maiden Handicap",
+        "meta": "1540m",
+        "time": "2:32 pm",
+        "selections": [
+          {
+            "name": "Overoptomystic",
+            "number": 1
+          },
+          {
+            "name": "Quartzopolis",
+            "number": 6
+          },
+          {
+            "name": "Slightly Squeeze",
+            "number": 4
+          },
+          {
+            "name": "Big In Japan",
+            "number": 2
+          }
+        ],
+        "scratchings": "#5 Chop Chop Go, #7 Fierce Lady, #9 Notes Of Autumn.",
+        "analysis": [
+          "#1 Overoptomystic (Emily Pozman a1.5) was narrowly denied by 0.18L when 3rd at Gatton over 1400m. He has tactical gate speed and gets the inside run from barrier 1. #6 Quartzopolis (Danny Peisley) ran 4th over this track and distance on October 24 and was runner-up over 1600m at Gatton the start prior. #4 Slightly Squeeze ran 3rd over this course and distance two starts back. #2 Big In Japan finished 5th on debut over this track/distance and has upside. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 6,
+        "betType": "Top pick",
+        "confidence": 8.1,
+        "quinella": "1 / 6",
+        "trifecta": "1, 6 / 1, 4, 6 / 1, 2, 4, 6, 8, 11",
+        "bestAnalysis": "Was narrowly denied at Gatton over 1400m when 3rd by 0.18L after racing handy. Stepping up to 1540m on the Polytrack from barrier 1 allows Emily Pozman to kick up and hold a commanding position on the rail."
+      },
+      {
+        "number": 5,
+        "title": "BMD Group BM70 Handicap",
+        "meta": "1540m",
+        "time": "3:08 pm",
+        "selections": [
+          {
+            "name": "Run Lucy Run",
+            "number": 1
+          },
+          {
+            "name": "Luconi",
+            "number": 6
+          },
+          {
+            "name": "Mr Bubbaluski",
+            "number": 3
+          },
+          {
+            "name": "Humanity",
+            "number": 2
+          }
+        ],
+        "scratchings": "#5 Out Of Luck, #7 Vacillation, #9 Sir Don.",
+        "analysis": [
+          "#1 Run Lucy Run (Chelsea Baker) was dominant over this track and trip on October 24, leading and drawing away to score by 1.67L carrying 62kg in BM60 company. She handles the Polytrack comfortably and will take running down again. #6 Luconi (Adin Thompson) is a track-and-distance winner (6: 1-1-0 at the trip) who drops into this grade after placings at Sunshine Coast and Ipswich. #3 Mr Bubbaluski is a two-time track winner, having won over this track/trip in BM58 company two runs back. #2 Humanity won by 7.86L over 2000m on the Poly earlier in the year. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 1,
+        "betType": "Best bet",
+        "confidence": 9.5,
+        "quinella": "1 / 6",
+        "trifecta": "1 / 3, 6 / 2, 3, 4, 6, 8",
+        "bestAnalysis": "Carried 62kg to an emphatic all-the-way win over this exact track and distance on October 24, running clear by 1.67 lengths. Retains peak fitness, loves the synthetic surface, and maps to sit 1-2 off the fence before sprinting clear around the home turn."
+      },
+      {
+        "number": 6,
+        "title": "AC-TEC Services BM58 Handicap",
+        "meta": "1150m",
+        "time": "3:56 pm",
+        "selections": [
+          {
+            "name": "Our Combination",
+            "number": 7
+          },
+          {
+            "name": "Brechen",
+            "number": 3
+          },
+          {
+            "name": "Far Beyond",
+            "number": 5
+          },
+          {
+            "name": "Qickwit",
+            "number": 8
+          }
+        ],
+        "scratchings": "#1 Sistine Explorer, #2 Decadad, #4 Zoodoo, #6 Dirty Harry, #11 Glam.",
+        "analysis": [
+          "#7 Our Combination (Jasper Franklin) won over 1050m on the Polytrack on October 24, sitting off the speed and sprinting strongly to score. She won her maiden at Gatton three runs back and draws barrier 2. #3 Brechen (Danny Peisley) ran 2nd over this track and trip in BM70 grade on October 7, beaten only by King Of Minto. He is a two-time winner on the Poly. #5 Far Beyond (Jai Williams) chased hard for 2nd over 1200m on the Poly on October 24. #8 Qickwit has a win and a placing on the Polytrack. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 4,
+        "betType": "Top pick",
+        "confidence": 8.7,
+        "quinella": "3 / 7",
+        "trifecta": "3, 7 / 3, 5, 7 / 3, 5, 7, 8, 9, 10, 12",
+        "bestAnalysis": "Progressive mare from the Lockwood & Vincent stable who relished the Polytrack on October 24, claiming a BM60 over 1050m in solid style. Drawn barrier 2 with Jasper Franklin, allowing her to stalk the speed without working hard."
+      },
+      {
+        "number": 7,
+        "title": "Citibuild Constructions BM55 Handicap",
+        "meta": "1540m",
+        "time": "4:36 pm",
+        "selections": [
+          {
+            "name": "Spot The Aussie",
+            "number": 3
+          },
+          {
+            "name": "Fiery Lass",
+            "number": 2
+          },
+          {
+            "name": "Archers Reign",
+            "number": 11
+          },
+          {
+            "name": "Explosive Power",
+            "number": 1
+          }
+        ],
+        "scratchings": "#4 Inquisitor, #8 Wildspitze, #9 Alkebulan, #14 Glenray's Mate.",
+        "analysis": [
+          "#3 Spot The Aussie (Adin Thompson) brings the strongest form into this race, having finished 2nd over this track and trip on October 7 behind Mr Bubbaluski, beaten only 0.57L. He maps to find an identical trail from barrier 9. #2 Fiery Lass (Maddie Mankelow a3) won over 1600m at the Sunshine Coast two starts back and gets a vital weight relief. #11 Archers Reign placed 3rd on the Poly over 1540m behind Mr Bubbaluski two runs back. #1 Explosive Power has placed on the synthetic. "
+        ],
+        "exotics": "",
+        "cupTrifecta": "",
+        "firstFour": "",
+        "rank": 3,
+        "betType": "Top pick",
+        "confidence": 8.9,
+        "quinella": "2 / 3",
+        "trifecta": "3 / 2, 11 / 1, 2, 5, 7, 10, 11, 12, 13",
+        "bestAnalysis": "Solid synthetic record. Chased home Mr Bubbaluski over this track and trip on October 7 to finish a close 2nd, beaten just 0.57 lengths. Drops back into BM55 grade from a BM65 test at the Sunshine Coast."
+      }
+    ],
+    "quaddie": [
+      {
+        "race": 4,
+        "numbers": [
+          1,
+          4,
+          6
+        ]
+      },
+      {
+        "race": 5,
+        "numbers": [
+          1,
+          6
+        ]
+      },
+      {
+        "race": 6,
+        "numbers": [
+          3,
+          5,
+          7
+        ]
+      },
+      {
+        "race": 7,
+        "numbers": [
+          2,
+          3,
+          11
+        ]
+      }
+    ],
+    "source": "AI tips gold coast.docx"
+  }
+]
