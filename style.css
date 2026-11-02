@@ -124,3 +124,44 @@ body { font-size: 16px; }
  .view-tabs button[data-view="next"] { grid-column: 1 / -1; }
  .schedule-note { padding: 16px; }
 }
+
+/* Make the main guide views easy to spot and tap. */
+.toolbar { padding: 18px 0; gap: 16px; align-items: center; }
+.view-tabs { flex: 1; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; }
+.view-tabs button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 58px;
+  padding: 14px 16px;
+  border: 1px solid #bcc8ad;
+  border-radius: 9px;
+  background: #edf0e3;
+  color: #29462e;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: center;
+  transition: background .15s, border-color .15s;
+}
+.view-tabs button:hover { background: #e1e9d0; border-color: #7e9564; }
+.view-tabs button.active {
+  background: var(--green);
+  color: #fffef5;
+  border-color: var(--green);
+  box-shadow: 0 3px 8px #163e331a;
+  font-weight: 700;
+}
+.view-tabs button.active::after { display: none; }
+.info-button { flex-shrink: 0; }
+@media (max-width: 1100px) {
+  .toolbar { flex-wrap: wrap; gap: 10px; }
+  .view-tabs { flex-basis: 100%; }
+  .info-button { margin-left: auto; }
+}
+@media (max-width: 620px) {
+  .toolbar { padding: 16px 0 10px; }
+  .view-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .view-tabs button { min-height: 60px; font-size: 18px; padding: 14px 10px; }
+  .view-tabs button[data-view="next"] { grid-column: 1 / -1; }
+}

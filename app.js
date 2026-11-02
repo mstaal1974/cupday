@@ -8,7 +8,7 @@ function render(){
  $('#save-count').textContent=saved.size;
  $('#venues').innerHTML=venues.map(v=>`<button class="venue-tab ${v.id===venueId?'active':''}" data-venue="${v.id}" aria-pressed="${v.id===venueId}"><span class="venue-state">${v.state}</span><strong>${v.name}</strong><span class="venue-race-count">${v.races.length} races</span><span class="venue-arrow">↗</span></button>`).join('');
  const v=venue();$('#venue-info').innerHTML=`<span>⌖ ${v.id==='gold-coast'?'Aquis Park · Gold Coast Poly':v.name==='Randwick'?'Royal Randwick':v.name}</span><span>${v.condition}</span><span>${v.rail}</span><span class="timezone">All race times in Brisbane · AEST</span>`;
- document.querySelectorAll('.view-tabs button').forEach(b=>b.classList.toggle('active',b.dataset.view===view));
+ document.querySelectorAll('.view-tabs button').forEach(b=>{const active=b.dataset.view===view;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});
  $('#track-notes').innerHTML=`<strong>From ${esc(v.source)}</strong><p>${esc(v.profile).replaceAll('\n','<br>')}</p><small>Confidence scores are the document author’s ratings, not winning probabilities.</small>`;
  if(view==='races') renderRaces(v); else if(view==='next') renderNext(); else if(view==='quaddie') renderQuaddie(v); else renderCards(v);
  const arrow='<svg class="arrow-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>';
